@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mpos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="tab_home">"Home"</string>
+    <string name="tab_pay">"Pay"</string>
+    <string name="tab_load">"Load"</string>
+    <string name="tab_history">"History"</string>
+
+</resources>

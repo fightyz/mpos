@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color_purple">#421651</color>
+    <color name="text_color_black">#333333</color>
+    <color name="text_color_blue">#4184D4</color>
+    <color name="text_color_gray">#808080</color>
+    <color name="text_color_green">#779E02</color>
+    <color name="text_color_light_gray">#BBBBBB</color>
+    <color name="text_color_light_pink">#FB5C89</color>
+    <color name="text_color_pink">#d82658</color>
+    <color name="text_color_red">#E93037</color>
+    <color name="text_color_white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">mpos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tab_history">"History"</string>
+    <string name="tab_home">"Home"</string>
+    <string name="tab_load">"Load"</string>
+    <string name="tab_pay">"Pay"</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="dialogText">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:orientation="vertical" >
+    
+    <fragment
+        android:id="@+id/fragment_home"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.mcg.mpos.fragments.HomeFragment"/>
+    
+    <fragment 
+        android:id="@+id/fragment_pay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.mcg.mpos.fragments.PayFragment"/>
+    
+    <fragment 
+        android:id="@+id/fragment_load"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.mcg.mpos.fragments.LoadFragment"/>
+    
+    <fragment 
+        android:id="@+id/fragment_history"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.mcg.mpos.fragments.QueryFragment"/>
+    
+    <com.mcg.mpos.fragments.FragmentIndicator
+        android:id="@+id/indicator"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tab_footer_bg"/>
+
+</LinearLayout>

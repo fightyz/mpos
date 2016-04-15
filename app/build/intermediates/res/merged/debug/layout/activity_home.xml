@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/fragment_container"
+    >
+    
+    <!-- <fragment 
+        android:id="@+id/fragment_pay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        class="com.mcg.mpos.fragments.PayFragment"/>
+    
+    <fragment 
+        android:id="@+id/fragment_load"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        class="com.mcg.mpos.fragments.LoadFragment"/>
+    
+    <fragment 
+        android:id="@+id/fragment_query"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        class="com.mcg.mpos.fragments.QueryFragment"/>
+    
+    <fragment 
+        android:id="@+id/fragment_indicator"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        class="com.mcg.mpos.fragments.IndicatorFragment"/> -->
+
+</FrameLayout>

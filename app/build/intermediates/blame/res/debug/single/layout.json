@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_load.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\fragment_load.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_query.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\fragment_query.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pay.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\fragment_pay.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_indicator.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\fragment_indicator.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delete.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_delete.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_salers_management.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_salers_management.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog_layout.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\progress_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\layout\\activity_add.xml"
+    }
+]

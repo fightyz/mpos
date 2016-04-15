@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<TextView
+        android:id="@+id/fragment_load_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="这是圈存"
+        android:textSize="18sp" />
+	<EditText  
+        android:id="@+id/edit"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content" 
+        android:hint="0.00"
+		android:gravity="center" /> 
+		
+	<RelativeLayout  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content" >  
+   
+        <android.inputmethodservice.KeyboardView  
+            android:id="@+id/keyboard_view"  
+            android:layout_width="fill_parent"  
+            android:layout_height="wrap_content"  
+            android:layout_alignParentBottom="true"  
+            android:focusable="true"  
+            android:focusableInTouchMode="true"  
+            android:background="@color/text_color_light_gray"   
+            android:keyTextColor="@color/text_color_white"  />  
+    </RelativeLayout> 
+</LinearLayout>

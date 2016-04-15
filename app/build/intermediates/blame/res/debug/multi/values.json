@@ -1,0 +1,452 @@
+[
+    {
+        "outputFile": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 503,
+                        "endColumn": 54,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 50,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 256,
+                        "endColumn": 47,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 49,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 359,
+                        "endColumn": 46,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 49,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 50,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 454,
+                        "endColumn": 47,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 55,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 202,
+                        "endColumn": 52,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 55,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 305,
+                        "endColumn": 52,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 49,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 48,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 407,
+                        "endColumn": 45,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 50,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 105,
+                        "endColumn": 47,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 57,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 55,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 52,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 744,
+                    "endColumn": 41,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 52,
+                    "endOffset": 834
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 839,
+                    "endColumn": 49,
+                    "endOffset": 884
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 49,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 889,
+                    "endColumn": 43,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 43,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 933,
+                    "endColumn": 43,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 43,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 41,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 41,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1470,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 958,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1103
+                    }
+                }
+            }
+        ]
+    }
+]

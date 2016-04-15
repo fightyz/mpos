@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\white_btn_selector.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-ldpi\\white_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading_gray_ani.xml",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-ldpi\\loading_gray_ani.xml"
+    }
+]

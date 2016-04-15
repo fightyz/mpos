@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" > 
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="增加营业员"
+            android:textSize="30dp"/>
+        </LinearLayout>
+        
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="vertical">
+        
+	        <EditText 
+	            android:id="@+id/edtNum"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_margin="20dp"
+	            android:hint="请输入营业员编号"
+	            android:textColorHint="#238745"
+	            />            
+	        <EditText 
+	            android:id="@+id/edtName"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_margin="20dp"
+	            android:hint="请输入营业员姓名"
+	            android:textColorHint="#238745"
+	            />              
+	            
+	        <EditText 
+	            android:id="@+id/edtPassword"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_margin="20dp"
+	            android:hint="请输入营业员密码"
+	            android:textColorHint="#238745"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+        <Button 
+	        android:id = "@+id/buttonSave"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:layout_alignParentLeft="true"
+	        android:text="保存"
+	        />
+     	<Button 
+	        android:id = "@+id/buttonCancel"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="取消"
+	        />   
+        
+    </LinearLayout>
+           
+                        
+</LinearLayout>
+
+
+
+ 

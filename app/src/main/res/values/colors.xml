@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color_pink">#d82658</color>
+	<color name="text_color_white">#FFFFFF</color>
+	<color name="text_color_gray">#808080</color>
+	<color name="text_color_light_gray">#BBBBBB</color>
+	<color name="text_color_black">#333333</color>
+	<color name="text_color_light_pink">#FB5C89</color>
+	<color name="text_color_blue">#4184D4</color>
+	<color name="text_color_red">#E93037</color>
+	<color name="text_color_green">#779E02</color>
+	<color name="background_color_purple">#421651</color>
+</resources>

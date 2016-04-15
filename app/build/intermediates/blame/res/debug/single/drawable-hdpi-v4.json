@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_loading_bg.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\global_loading_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_btn_pressed.9.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\white_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_footer_bg.9.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\tab_footer_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_btn_normal.9.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\white_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_middle_normal.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\tab_middle_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_pressed.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\tab_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_normal.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_normal.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indic_select.9.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\indic_select.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_progressbar_loading.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\global_progressbar_loading.png"
+    },
+    {
+        "merged": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\query_gray_bk.png",
+        "source": "E:\\workspace\\Android\\studio_workspace\\mpos\\app\\src\\main\\res\\drawable-hdpi\\query_gray_bk.png"
+    }
+]

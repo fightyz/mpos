@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mcg.mpos"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="com.android.nfc.permission.NFCEE_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <application
+        android:name="com.mcg.mpos.application.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.mcg.mpos.activities.MainActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TAG_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.nfc.action.TECH_DISCOVERED"
+                android:resource="@xml/techfilter" />
+        </activity>
+        <activity android:name="com.mcg.mpos.activities.HomeActivity" />
+        <activity android:name="com.mcg.mpos.activities.SalersManagementActivity" />
+        <activity android:name="com.mcg.mpos.activities.AddSalerActivity" />
+        <activity android:name="com.mcg.mpos.activities.DeleteSalerActivity" />
+        <activity android:name="com.mcg.mpos.activities.QueryActivity" />
+        <activity android:name="com.mcg.mpos.activities.TabActivity" />
+
+        <service android:name="com.mobilesecuritycard.openmobileapi.service.SmartcardService" >
+            <intent-filter>
+                <action android:name="com.mobilesecuritycard.openmobileapi.service.ISmartcardService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

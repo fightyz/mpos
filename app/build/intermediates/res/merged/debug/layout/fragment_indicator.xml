@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/widgethome"
+	android:layout_width="match_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:layout_gravity="center_vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView
+		android:id="@+id/tv_title"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:gravity="center"
+		android:text="mPOS"
+		android:textSize="40dp" />
+	
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:layout_weight="3">
+	    
+	    <Button
+			android:id="@+id/btn_indicator_query"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="30dp"
+			android:layout_marginTop="15dp"
+			android:layout_marginBottom="7.5dp"
+			android:text="查询" />
+		<Button
+			android:id="@+id/btn_indicator_load"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="30dp"
+			android:layout_marginTop="7.5dp"
+			android:layout_marginBottom="7.5dp"
+			android:text="圈存" 
+ />
+		<Button
+			android:id="@+id/btn_indicator_pay"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="30dp"
+			android:layout_marginTop="7.5dp"
+			android:layout_marginBottom="7.5dp"
+			android:text="消费" />
+		
+		<Button
+			android:id="@+id/btn_logout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="30dp"
+			android:layout_marginTop="7.5dp"
+			android:layout_marginBottom="7.5dp"
+			android:text="退出登录" />
+		<!-- <Button
+			android:id="@+id/btn_usermanage"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="30dp"
+			android:layout_marginTop="7.5dp"
+			android:layout_marginBottom="30dp"
+			android:text="账户管理" /> -->	    
+	</LinearLayout>
+	
+	<!-- <Button
+		android:id="@+id/btn_exit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:layout_gravity="right"
+		android:text="退出登录" /> -->
+</LinearLayout>
+ 
